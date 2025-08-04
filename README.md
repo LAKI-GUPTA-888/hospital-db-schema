@@ -1,6 +1,6 @@
 # 🏥 Hospital Management Database Schema
 
-## 📌 Overview
+## Overview
 This project is a **Hospital Management System** database schema designed using **MySQL**.  
 It models real-world hospital operations such as managing patients, doctors, departments, appointments, admissions, treatments, prescriptions, medications, and billing.
 
@@ -58,5 +58,4 @@ The database is normalized to **Third Normal Form (3NF)** to ensure minimal redu
 ---
 
 ## ER Diagram
-![ER Diagram](ER_Diagram.png)
-
+!  https://github.com/LAKI-GUPTA-888/hospital-db-schema/blob/main/hospital_erd.png
