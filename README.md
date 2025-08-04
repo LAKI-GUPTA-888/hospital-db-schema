@@ -1,8 +1,8 @@
 # 🏥 Hospital Management Database Schema
 
 # Author
-**Name: Laki Gupta.**
-**GitHub: https://github.com/LAKI-GUPTA-888**
+- **Name: Laki Gupta.**
+- **GitHub: https://github.com/LAKI-GUPTA-888**
 
 ## Overview
 This project is a **Hospital Management System** database schema designed using **MySQL**.  
