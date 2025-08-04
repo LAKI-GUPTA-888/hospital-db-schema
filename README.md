@@ -52,7 +52,7 @@ The database is normalized to **Third Normal Form (3NF)** to ensure minimal redu
 
 ## Tools Used
 - **MySQL Workbench** – For schema design & ER diagram creation.
-- **Draw.io / dbdiagram.io** – For visual ER diagram export (optional).
+- **MySQL Workbench** – For visual ER diagram export (optional).
 - **GitHub** – For version control and submission.
 
 ---
